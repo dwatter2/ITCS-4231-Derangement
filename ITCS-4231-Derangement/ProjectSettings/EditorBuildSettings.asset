@@ -4,5 +4,35 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 7654f515c92c7d74880a7e3364729a6e
+  - enabled: 1
+    path: Assets/Scenes/Tutorial_Outside.unity
+    guid: 6af545df87fa3764e8da0b3a254d84c8
+  - enabled: 1
+    path: Assets/Scenes/Tutorial_Inside.unity
+    guid: 3a371698c2e81444ebadb8dda509e258
+  - enabled: 1
+    path: Assets/Scenes/Town.unity
+    guid: 3a5631eba0852334580e8e971dfd62f1
+  - enabled: 1
+    path: Assets/Scenes/Field.unity
+    guid: daa898069ff07874d9e7bcf3f0986530
+  - enabled: 1
+    path: Assets/Scenes/Cabin_Outside.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Cabin_Inside.unity
+    guid: 12152cea30d87ec4d9eb96dff32890a2
+  - enabled: 1
+    path: Assets/Scenes/Cabin_Outside_Day.unity
+    guid: 8965f6f645296f34da13fa5fa4ed1f26
+  - enabled: 1
+    path: Assets/Scenes/Field_Night.unity
+    guid: 8eca72b15cfbfc24eb3f9a9ce91d8ac5
+  - enabled: 1
+    path: Assets/Scenes/Town_Night.unity
+    guid: 11e48bb11124db84f8b8cbf08466f326
   m_configObjects: {}
